@@ -22,4 +22,4 @@ At Makers Academy, we switch pair partners each day and work on whoever's versio
 
 ## Other Notes
 
-CSS styling for the buttons is shameless lifted from [learnlayout.com/](http://learnlayout.com/). Completed during week five of the [Makers Academy](http://www.makersacademy.com) Bootcamp. 
+CSS styling for the buttons is shameless lifted from [learnlayout.com](http://learnlayout.com/). Completed during week five of the [Makers Academy](http://www.makersacademy.com) Bootcamp. 
