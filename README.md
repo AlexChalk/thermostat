@@ -10,7 +10,7 @@ An implementation of a thermostat in Javascript.
 
 ## Usage
 
-Open `index.html` in a web browser of your choice and use the UI. You can increase/decrease the temperature to defined limits, toggle power-saving mode, reset the temperature to a default of 20 degrees, and load a weather report on a city of your choice, which defaults to Henry, Illinois.
+Open `index.html` in a web browser of your choice and use the UI. You can increase/decrease the temperature to defined limits, toggle power-saving mode, reset the temperature to a default of 20 degrees, and load a weather report on a city of your choice, which defaults to Henry, Illinois. The thermostat will also report on whether power usage is low, medium, or high, and will colour the temperature reading blue, black, or red respectively.
 
 ## Tests
 
