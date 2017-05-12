@@ -1,6 +1,6 @@
 # Thermostat
 
-![Image of the Thermostat](https://www.dropbox.com/s/bkat92cvjhddq3z/thermostat.png?dl=0)
+![Image of the Thermostat](screenshot.png)
 
 An implementation of a thermostat in Javascript. 
 
